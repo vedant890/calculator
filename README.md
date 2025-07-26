@@ -1,6 +1,6 @@
 # Simple Calculator
 
-This is a simple calculator web application built using HTML, CSS, and JavaScript. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division. this is the pat of the **CODSOFT INTERNSHIP.**
+This is a simple calculator web application built using HTML, CSS, and JavaScript. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division. this is the part of the **CODSOFT INTERNSHIP.**
 
 ## Features
 
